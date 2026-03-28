@@ -5,4 +5,5 @@ plotly
 ipykernel
 statsmodels
 nbformat
+scikit-learn
 -e .
