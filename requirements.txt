@@ -6,4 +6,5 @@ ipykernel
 statsmodels
 nbformat
 scikit-learn
+imbalanced-learn
 -e .
